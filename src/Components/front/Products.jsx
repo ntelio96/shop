@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import FrontContext from "../../Contexts/FrontContexts";
+import FrontContext from "../../Contexts/FrontContext";
 import Product from "./Product";
 
 function Products() {

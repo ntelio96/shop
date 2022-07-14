@@ -1,6 +1,6 @@
 import { useContext, useEffect, useState, useRef } from "react";
 import { filterPrice, sortProducts } from "../../Actions/products";
-import FrontContext from "../../Contexts/FrontContexts";
+import FrontContext from "../../Contexts/FrontContext";
 
 function Bar() {
 
